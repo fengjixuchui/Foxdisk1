@@ -5,7 +5,7 @@ Manage multi-system boot(Just for windows)
 
 *2 只能支持windows操作系统；
 
-*3 软件安装在MBR和其后的61个扇区内，不影响后续的DBR扇区；
+*3 软件安装在MBR和其后的62个扇区内，不影响后续的DBR扇区；
 
 *4 只支持Legacy BIOS,采用的是汇编语言编写；
 
