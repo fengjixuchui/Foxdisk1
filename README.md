@@ -1,11 +1,16 @@
 # Foxdisk1
 Manage multi-system boot(Just for windows)
 
-1 ������ǰд�Ķ�ϵͳ����������������˾�ڲ�ʹ���˼��ꣻ
-2 ֻ��֧��windows����ϵͳ��
-3 ������װ��MBR������61�������ڣ���Ӱ�������DBR������
-4 ֻ֧��Legacy BIOS,���õ��ǻ�����Ա�д��
-5 ������������£��������ṩ��ȥ��ѧϰʹ�ã�
-6 Ҳ����д�㲩����һЩ���ܣ�CSDN luobing4365����http://yiiyee.cn/blog/author/luobing/
+*1 很早以前写的多系统启动管理软件，公司内部使用了几年；
 
-                                         ---20190902 luobing
+*2 只能支持windows操作系统；
+
+*3 软件安装在MBR和其后的61个扇区内，不影响后续的DBR扇区；
+
+*4 只支持Legacy BIOS,采用的是汇编语言编写；
+
+*5 后续不打算更新，纯粹是提供出去供学习使用；
+
+*6 也许会写点博客做一些介绍：CSDN luobing4365或者http://yiiyee.cn/blog/author/luobing/
+
+                                                             ---20190902 luobing
